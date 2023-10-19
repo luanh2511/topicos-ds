@@ -1,0 +1,45 @@
+Principais pontos na gestão de TI
+
+1. Alinhamento com os objetivos de negócios: A TI deve estar alinhada com os objetivos estratégicos da organização para garantir que os investimentos em tecnologia sejam direcionados de maneira apropriada.
+
+2. Governança de TI: Uma estrutura de governança eficaz garante que a TI seja gerenciada de forma responsável, atendendo a padrões éticos e regulatórios.
+
+3. Segurança da informação: A proteção dos ativos de informação é crítica. A gestão de TI deve implementar medidas de segurança, como firewalls, antivírus e políticas de acesso.
+
+4. Gestão de projetos de TI: Projetos de TI devem ser gerenciados de forma eficiente, seguindo metodologias como o PMI (Project Management Institute) ou o Scrum, para garantir a entrega bem-sucedida de soluções.
+
+5. Gestão de riscos de TI: Identificar e mitigar riscos de TI é essencial para garantir a continuidade dos negócios. Isso inclui a realização de avaliações de riscos e planos de contingência.
+
+6. Arquitetura de TI: Desenvolver uma arquitetura de TI sólida que suporte as necessidades atuais e futuras da organização, permitindo a escalabilidade e a integração de sistemas.
+
+7. Gerenciamento de ativos de TI: Manter um inventário e garantir o uso eficiente de recursos de TI, como hardware, software e licenças.
+
+8. Gestão de serviços de TI: Implementar processos eficazes para oferecer suporte técnico e serviços de TI de alta qualidade aos usuários da organização.
+
+9. Gestão de custos: Controlar os custos de TI e otimizar os investimentos, garantindo que os recursos sejam utilizados de maneira eficiente.
+
+10. Inovação tecnológica: Fomentar um ambiente de inovação e atualização constante para aproveitar novas tecnologias que possam beneficiar a organização.
+
+
+Heurísticas de Nielsen
+
+1. Visibilidade do status do sistema: Os usuários devem sempre estar cientes do que está acontecendo no sistema, por meio de feedback apropriado, como indicadores de progresso ou mensagens de erro.
+
+2. Correspondência entre o sistema e o mundo real: A linguagem e os elementos da interface devem refletir o mundo real, facilitando a compreensão do sistema para os usuários.
+
+3. Controle e liberdade do usuário: Os usuários devem ter a capacidade de desfazer ações indesejadas e navegar pelo sistema com facilidade. Atalhos e saídas claras devem ser fornecidos.
+
+4. Consistência e padronização: Os elementos de interface devem ser consistentes em todo o sistema para evitar confusão. É importante seguir padrões e convenções de design.
+
+5. Reconhecimento em vez de lembrança: É melhor que os usuários possam reconhecer opções e ações em vez de ter que lembrar informações específicas. Minimize a carga cognitiva.
+
+6. Prevenção de erros: As interfaces devem ser projetadas de forma a evitar que os usuários cometam erros graves. Quando os erros ocorrerem, devem ser fornecidas mensagens de erro claras e orientações para correção.
+
+7. Flexibilidade e eficiência de uso: O sistema deve permitir que os usuários experientes realizem tarefas de forma mais eficiente, fornecendo atalhos e métodos de aceleração.
+
+8. Design estético e minimalista: Interfaces devem ser projetadas de forma limpa e esteticamente agradável, evitando informações desnecessárias ou elementos confusos.
+
+9. Ajuda aos usuários a reconhecer, diagnosticar e recuperar-se de erros: Quando os usuários cometem erros, o sistema deve fornecer mensagens claras e orientações para ajudá-los a entender o problema e corrigi-lo.
+
+10. Ajuda e documentação: Quando necessário, deve haver uma documentação de ajuda facilmente acessível e compreensível para orientar os usuários em tarefas complexas.
+
